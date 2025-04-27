@@ -1,0 +1,7 @@
+# Site settings
+title: Thiago Paes
+email: falecom@thiagopaes.dev.br
+url: https://thiagopaes.dev.br
+description: Este é meu site pessoal e nele você pode me conhecer e alguns dos meus projetos.
+markdown: kramdown
+permalink: pretty
